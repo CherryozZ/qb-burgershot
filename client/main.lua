@@ -660,7 +660,7 @@ Citizen.CreateThread(function()
                 options = {
                     {
                         event = "nh-context:Burgers",
-                        icon = "fas fa-cheeseburger",
+                        icon = "fas fa-hamburger",
                         label = "Burger Work Station",
                         job = "burgershot",
                     },
